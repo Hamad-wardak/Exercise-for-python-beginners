@@ -1,2 +1,1 @@
-Das ist meine bESCHREIBUNG:
- ## uEBERSCHRIFT
+## Algorithms Exercise Student project
