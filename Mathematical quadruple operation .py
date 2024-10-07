@@ -1,4 +1,4 @@
-'''Mathematical quadruple operations  whit if elif and else function and for prime and non prime numbers we use the
+'''Mathematical quadruple operations  whit if, elif and else function and for prime and non prime numbers we use the
 modula method '''
 print("Hallo, das ist hier der Taschenrechner")
 print("Bitte wähle eine der folgenden Operationen:")
